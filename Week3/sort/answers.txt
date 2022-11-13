@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: the time of sorted50000.txt is more less than the time of random50000.txt.
+
+sort2 uses: merge sort
+
+How do you know?: the time of random50000.txt is the least.
+
+sort3 uses: selection sort
+
+How do you know?: the time of sorted50000.txt and random50000.txt are almost the same.
